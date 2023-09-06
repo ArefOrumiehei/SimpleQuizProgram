@@ -17,27 +17,27 @@ body {
 
 .container {
     background-color: white;
-    width: 800px;
-    height: 500px;
+    width: 700px;
+    height: 400px;
     position: relative;
 }
 
-.questions {
-    /* display: none; */
-}
+/* .questions {
+    display: none;
+} */
 
 .content {
     padding: 50px;
 }
 
 .question {
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 40px;
 }
 
 .answer {
-    font-size: 24px;
-    margin-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
     color: #333;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .result h1 , .correct , .wrong , .score {
-    margin-bottom: 40px;
+    margin-bottom: 25px;
 } 
 
 .result h1 {
